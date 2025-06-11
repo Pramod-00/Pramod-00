@@ -1,11 +1,32 @@
-<h1 align="center">Hi 👋, I'm Pramod Pandey</h1>
-<h3 align="center">I am currently learning Computer Science</h3>
+# 👋 Hi, I’m Pramod!
 
-- 🔭 I’m currently working on **AI with Python**
+### 🎓 CS Student @ Texas State University  
+### 🤖 Python & C++ Enthusiast  
+### 🌍 Exploring global tech opportunities
+---
 
-- 💬 Ask me about **C & C++**
+### About Me
+I’m passionate about turning data into insights and building intelligent systems. Currently diving deep into machine learning, Python, and data science — learning one project at a time.
 
-- 📫 How to reach me **pndpramod.19@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### 🚀 What I’m Working On
+- Machine Learning projects with Python & Scikit-learn  
+- Data analysis and visualization  
+- Exploring Deep Learning and NLP  
+
+---
+
+### 💡 Fun Fact  
+When I’m not coding, you’ll find me exploring new tech trends or sipping a good cup of coffee ☕️
+
+---
+
+### 📌 Featured Projects  
+<!-- You can pin these repos on GitHub and link here -->
+- [Project 1](https://github.com/yourusername/project1) - pending 
+- [Project 2](https://github.com/yourusername/project2) - pending  
+- [Project 3](https://github.com/yourusername/project3) - pending
+---
+
+Thanks for stopping by! Let’s build something amazing together. 🚀
