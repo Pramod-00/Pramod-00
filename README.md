@@ -21,12 +21,4 @@ I’m passionate about turning data into insights and building intelligent syste
 When I’m not coding, you’ll find me exploring new tech trends or sipping a good cup of coffee ☕️
 
 ---
-
-### 📌 Featured Projects  
-<!-- You can pin these repos on GitHub and link here -->
-- [Project 1](https://github.com/yourusername/project1) - pending 
-- [Project 2](https://github.com/yourusername/project2) - pending  
-- [Project 3](https://github.com/yourusername/project3) - pending
----
-
 Thanks for stopping by! Let’s build something amazing together. 🚀
