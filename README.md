@@ -1,24 +1,25 @@
-# 👋 Hi, I’m Pramod!
+# Hi, I'm Pramod Pandey 👋
 
-### 🎓 CS Student @ Texas State University  
-### 🤖 Python & C++ Enthusiast  
-### 🌍 Exploring global tech opportunities
----
+Electrical Engineering student focused on:
+- Embedded Systems
+- Hardware Validation
+- Digital Logic Design
+- Low-level C Programming
 
-### About Me
-I’m passionate about turning data into insights and building intelligent systems. Currently diving deep into machine learning, Python, and data science — learning one project at a time.
+## Technical Skills
+**Languages:** C, C++, Python, MATLAB  
+**Hardware:** Digital Logic, Timing Analysis, Signal Analysis, Oscilloscope (learning)  
+**Interests:** Embedded firmware, hardware debugging, system validation  
 
----
+## Tools & Interests
+- Embedded Systems Development
+- Hardware Debugging
+- Signal & Waveform Analysis
+- Learning Oscilloscope Usage
+- Test Automation
 
-### 🚀 What I’m Working On
-- Machine Learning projects with Python & Scikit-learn  
-- Data analysis and visualization  
-- Exploring Deep Learning and NLP  
-
----
-
-### 💡 Fun Fact  
-When I’m not coding, you’ll find me exploring new tech trends or sipping a good cup of coffee ☕️
-
----
-Thanks for stopping by! Let’s build something amazing together. 🚀
+## 📚 Current Focus
+- Strengthening Embedded C
+- Building hardware-oriented GitHub projects
+- Developing signal analysis tools in MATLAB
+- Preparing for hardware validation internship roles
